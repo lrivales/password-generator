@@ -9,7 +9,7 @@ Summary of changes:
 2.  Added function for generating a random password.
 3.  Added function for resetting the variables.
 
-URL can be reached here: https://lrivales.github.io/horiseon/
+URL can be reached here: https://lrivales.github.io/password-generator/
 
 Snapshots can be seen here:
 ![Start](snapshots/start.png)
